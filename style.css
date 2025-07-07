@@ -2,6 +2,7 @@ body{
   color:black; 
   background:mediumpurple;
   margin: 0px;
+  font-family: "Libertinus Math", system-ui;
 }
 
 header {
@@ -21,4 +22,12 @@ section{
 
 .chamada-texto {
   margin-right: 5%;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+p {
+ font-sie: 20px;
 }
